@@ -9,6 +9,7 @@ Now that you understand all that html code you copypasted in the last challenge,
 5. The seccond `.row` will contain biographical data
 6. The third `.row` should contain information about work and/or school
 7. If you're in the mood, add a fourth `.row` for fun, random stuff about yourself.
+8. Unless you're daring with your design, your web page may end up looking like [this](http://nknj.github.io/)
 
 **Important**
 
