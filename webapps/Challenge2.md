@@ -18,3 +18,19 @@ Now that you understand all that html code you copypasted in the last challenge,
 * Is your page responsive? Head over to http://getbootstrap.com/css/ to learn about responsiveness. Look under "Grid System"
 * Test your page on mobile by resiving your window. See if you like the layout
 
+
+### Lecture
+
+Again, some useful links from the Interwebs will teach you much more than I can on some important subjects.
+
+The key word for this challenge is Responsive Design. The other key word is Documentation. Not only should you learn what responsive design is. You should know why it is necessary.
+
+Also, if you managed to get through this tutorial, you should know your way round the Bootstrap documentation. You'll need to refer to it when you wish to do anything new with the framework.
+
+Google Primer on Responsive Design: https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/
+
+W3Schools introduction to Responsive Design: http://www.w3schools.com/css/css_rwd_intro.asp
+
+Bootstrap Documentation (Getting Started, CSS, Components, in that order): http://getbootstrap.com/getting-started/
+
+Mark Pilgrim's Site. Again. By now, you should know enough HTML for this to read like a novel: http://diveintohtml5.info/
