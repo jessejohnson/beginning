@@ -50,3 +50,16 @@ You now have an empty web page!
     ```
 9. Refresh your browser, or point it to `0.0.0.0:8000` or `localhost:8000`
 10. If you see a beautifully rendered `Hello World!` you've made it!
+
+### Lecture
+I'll just link to the countless resources on HTML5 out there for your reading pleasure. If you didn't understand anything that happened in this challenge, you're better off reading through all the provided links until you come to a general understanding of what HTML is, where CSS plays a role and what JavaScript is doing under the covers too.
+
+Ultra Beginner Introduction: http://www.htmlgoodies.com/primers/html/article.php/3478131
+
+Not Beginner Friendly, but you'll quickly learn to love Mark: http://diveintohtml5.info/past.html
+
+If you didn't get the `python -m SimpleHTTPServer` command, I'll explain it shortly. If it worked, you just started a server. Web sites (and web pages) are *served* to the user's browser by a web server. By running that command and naming your web page `index.html`, you created and run a simple web server.
+
+Every web server needs an address to run on (the same address your browser navigates to) and a port on that address to listen to. Your address was `0.0.0.0` and your port number was `8000`. Yes, that first one was an IP Address; Your local IP Address. The second one was an open port on your computer that the `SimpleHTTPServer` was listening on.
+
+Any computer in the world that has your computer's actual IP Address could send a request to that port and say hello to your own little web server. Congratulations, you're contributing to the Internet!
