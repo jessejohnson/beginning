@@ -7,5 +7,3 @@ ie. one who doesn't yet know how the web works (but knows how to write code and 
 
 *These exercises should be seen as a starting point to discover more about web technologies.
 Their purpose is to onboard you and point you in the right direction for further study*
-
-
