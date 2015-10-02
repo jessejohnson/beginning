@@ -58,6 +58,8 @@ Ultra Beginner Introduction: http://www.htmlgoodies.com/primers/html/article.php
 
 Not Beginner Friendly, but you'll quickly learn to love Mark: http://diveintohtml5.info/past.html
 
+Everyone knows W3Schools, from the guys who invented the web: http://www.w3schools.com/html/html_intro.asp
+
 If you didn't get the `python -m SimpleHTTPServer` command, I'll explain it shortly. If it worked, you just started a server. Web sites (and web pages) are *served* to the user's browser by a web server. By running that command and naming your web page `index.html`, you created and run a simple web server.
 
 Every web server needs an address to run on (the same address your browser navigates to) and a port on that address to listen to. Your address was `0.0.0.0` and your port number was `8000`. Yes, that first one was an IP Address; Your local IP Address. The second one was an open port on your computer that the `SimpleHTTPServer` was listening on.
