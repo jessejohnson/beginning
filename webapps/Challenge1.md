@@ -37,7 +37,9 @@ You now have an empty web page!
     <![endif]-->
   </head>
   <body>
+    <!-- CONTENT STARTS HERE -->
     <h1>Hello, world!</h1>
+    <!-- CONTENT ENDS HERE -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
